@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">sidebar3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="menu1">menu1</string>
+    <string name="menu3">menu3</string>
+    <string name="menu2">menu2</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="hawa_mahal">hawa mahal</string>
+    <string name="puskar">puskar</string>
+    <string name="chitorgahr">chitorgahr</string>
+    <string name="jaislmair_fort">jaislmair fort</string>
+    <string name="juna_garh">juna garh</string>
+    <string name="ranakpur">RANAKPUR</string>
+    <string name="button">Button</string>
+    <string name="press_to_say">PRESS TO SAY</string>
+    <string name="hi_how_are_you_today">hi.how are you today.</string>
+</resources>

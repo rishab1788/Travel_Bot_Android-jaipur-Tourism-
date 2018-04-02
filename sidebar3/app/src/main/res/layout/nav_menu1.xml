@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <!--  <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="Menu 1"
+        android:textAppearance="?android:attr/textAppearanceLarge" />-->
+  <Button
+      android:id="@+id/buttonClicked"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignLeft="@+id/botapi"
+      android:layout_alignParentBottom="true"
+      android:layout_alignStart="@+id/botapi"
+      android:layout_marginLeft="45dp"
+      android:layout_marginStart="45dp"
+      android:onClick="buttonCliked"
+      android:text="@string/press_to_say" />
+
+  <TextView
+      android:id="@+id/botapi"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentLeft="true"
+      android:layout_alignParentStart="true"
+      android:layout_alignParentTop="true"
+      android:layout_marginLeft="33dp"
+      android:layout_marginStart="33dp"
+      android:layout_marginTop="33dp"
+      android:text="@string/hi_how_are_you_today"
+      android:textSize="20sp" />
+
+
+
+
+</RelativeLayout>
